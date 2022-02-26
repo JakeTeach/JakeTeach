@@ -13,6 +13,9 @@
 
 - ⚡ Fun fact **I love dinasours and Batman.**
 
+![1e341913-6670-4818-a75d-db225001a2cd](https://user-images.githubusercontent.com/99696478/155825736-62cbd1c4-c63f-4efd-a033-1d6f1882e1a8.jpg)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/jafricanorodriguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jafricanorodriguez" height="30" width="40" /></a>
