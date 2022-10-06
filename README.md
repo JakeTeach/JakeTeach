@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **make some layout.**
 
-- 🌱 I’m currently learning **HTML, CSS, Boortstrap, Git**
+- 🌱 I’m currently learning **HTML, CSS, Bootstrap, JavaScript, Git**
 
 - 👯 I’m looking to collaborate on **layout and HTML.**
 
